@@ -1,0 +1,1 @@
+08/20 Create "myscript.sh" with two command
